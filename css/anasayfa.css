@@ -1,0 +1,44 @@
+.background{
+    background-color:#863A6F;
+    text-align: center;
+
+}
+
+
+li {
+    display: inline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#wp {
+    width: 100%; 
+    display: inline;
+}
+
+#slogan {
+    display: inline;
+    float: left;
+}
+
+.foto {
+    display: inline;
+}
+
+.foto1{
+    width: 15%;
+    padding-left: 15%;
+    border: 2px solid #975C8D;
+    
+}
+.foto2{
+    width: 20.5%;
+    padding-left: 10%;
+    border: 2px solid #975C8D;
+}
