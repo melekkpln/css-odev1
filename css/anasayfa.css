@@ -22,11 +22,6 @@ a {
     display: inline;
 }
 
-#slogan {
-    display: inline;
-    float: left;
-}
-
 .foto {
     display: inline;
 }
@@ -41,4 +36,66 @@ a {
     width: 20.5%;
     padding-left: 10%;
     border: 2px solid #975C8D;
+}
+
+.lipstickname{
+    text-decoration: none; 
+    color: #D989B5 ;
+    font-size: 150%;
+    padding-left: 16%;
+    display: inline;
+    padding-right: 4%;
+}
+
+#kategori{
+    color: #863A6F;
+    font-size: 80px;
+    padding-left: 25%
+}
+
+#dudak{
+    display: inline;
+    width: 310px;
+    height: 310px;
+    border: 4px solid #975C8D;
+    
+}
+
+#yüz{
+    display: inline;
+    width: 15%;
+    height: 15%;
+    border: 4px solid #975C8D;
+}
+
+#göz{
+    display: inline;
+    width: 15%;
+    height: 300px;
+    border: 4px solid #975C8D;
+}
+
+.kategori-fotografları{
+    display: inline;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+.kategori-p{
+    text-decoration: none; 
+    color: #D989B5 ;
+    font-size: 200%;
+    padding-left: 14%;
+    display: inline;
+    padding-right: 13%;
+}
+
+#önecikan{
+    color: #863A6F;
+    font-size: 80px;
+    padding-left: 30%
+}
+
+.footer1{
+    
 }
