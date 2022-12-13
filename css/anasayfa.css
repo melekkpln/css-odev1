@@ -11,7 +11,7 @@ li {
 
 a {
     text-decoration: none;
-    color: white;
+    color: #FFADBC;
     font-size: 150%;
     padding-left: 10%;
     padding-right: 10%;
@@ -97,5 +97,30 @@ a {
 }
 
 .footer1{
+    background-color: #863A6F;
+}
+
+.duzenleme{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
     
+}
+
+.solakaydir{
+    float:left;
+    background-color: #863A6F;
+    width: 5%;
+}
+.h2{
+    color: #FFADBC
+}
+.footer2{
+    background-color: #863A6F;
+
+}
+
+.h3{
+    color: #FFADBC ;
+    font-size: 50px;
 }
